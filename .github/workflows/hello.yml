@@ -13,7 +13,7 @@ jobs:
     runs-on: windows-latest
     steps:
     - name: Step One - Print Date
-      run: date \t
+      run: date
   job3: 
     name: MacOs
     runs-on: macos-latest
